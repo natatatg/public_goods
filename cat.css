@@ -1,0 +1,12 @@
+
+.btn-custom {
+    background: #db8d7f;
+    color: white;
+}
+
+.grey {
+    background-color:#ededed;
+}
+.check {
+    list-style-type: "\2713";
+}
